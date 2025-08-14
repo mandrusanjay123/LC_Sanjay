@@ -1,22 +1,29 @@
 class Solution {
 public:
-    string largestGoodInteger(string& num) {
-        int count=0;
-        char prev='X', maxd=' ';
-        for(char c: num){
-            if (c==prev) count++;
-            else count=1;
-            if (count==3)
-                maxd=max(maxd, c);
-            prev=c;
+    string largestGoodInteger(string nums) {
+        string ans="";
+        string max_ans="";
+        int n=nums.size();
+        int size=1;
+        for(int i=1;i<nums.size();i++){
+              if(size==3){
+                ans+=nums[i-1];
+                max_ans=max(max_ans,ans);
+            }
+            if(nums[i]==nums[i-1]){
+                size++;
+                ans+=nums[i-1];
+            }
+            else{
+                size=1;
+                ans="";
+            }
+          
         }
-        return (maxd==' ')?"":string(3, maxd);
+        if(size==3&&nums[n-3]==nums[n-2]&&nums[n-2]==nums[n-1]){
+            ans+=nums[n-1];
+            max_ans=max(max_ans,ans);
+        }
+        return max_ans;
     }
 };
-auto init = []()
-{ 
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
