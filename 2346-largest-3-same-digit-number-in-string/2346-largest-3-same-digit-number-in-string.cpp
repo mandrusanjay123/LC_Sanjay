@@ -20,10 +20,6 @@ public:
             }
           
         }
-        // if(size==3&&nums[n-3]==nums[n-2]&&nums[n-2]==nums[n-1]){
-        //     ans+=nums[n-1];
-        //     max_ans=max(max_ans,ans);
-        // }
         return max_ans;
     }
 };
