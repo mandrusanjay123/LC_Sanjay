@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
@@ -24,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1448-maximum-69-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0867-new-21-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
