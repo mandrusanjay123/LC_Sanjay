@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0867-new-21-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,9 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Backtracking
 |  |
 | ------- |
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
