@@ -4,8 +4,8 @@ public:
         int max_area=-1;
         int max_dig=-1;
         for(int i=0;i<dimensions.size();i++){
-            long long dig=(dimensions[i][0]*dimensions[i][0])+(dimensions[i][1]*dimensions[i][1]);
-            int area=(int)dimensions[i][0]*dimensions[i][1];
+            int dig=(dimensions[i][0]*dimensions[i][0])+(dimensions[i][1]*dimensions[i][1]);
+            int area=dimensions[i][0]*dimensions[i][1];
             if(max_dig<dig){
                 max_dig=dig;
                 max_area=area;
