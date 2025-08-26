@@ -1,19 +1,19 @@
 class Solution {
 public:
     int areaOfMaxDiagonal(vector<vector<int>>& dimensions) {
-       long long bestDiag2 = -1;  // squared diagonal
-        int bestArea = 0;
-        for (auto &v : dimensions) {
-            long long w = v[0], h = v[1];
-            long long d2 = w*w + h*h;   // no sqrt
-            int area = (int)(w*h);
-            if (d2 > bestDiag2) {
-                bestDiag2 = d2;
-                bestArea = area;
-            } else if (d2 == bestDiag2 && area > bestArea) {
-                bestArea = area;
+        int max_area=-1;
+        int max_dig=-1;
+        for(int i=0;i<dimensions.size();i++){
+            long long dig=(dimensions[i][0]*dimensions[i][0])+(dimensions[i][1]*dimensions[i][1]);
+            int area=(int)dimensions[i][0]*dimensions[i][1];
+            if(max_dig<dig){
+                max_dig=dig;
+                max_area=area;
+            }
+            else if(dig==max_dig&&area>max_area){
+                max_area=area;
             }
         }
-        return bestArea;
+        return max_area;
     }
 };
