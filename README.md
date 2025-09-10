@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1917-maximum-average-pass-ratio) |
 ## Dynamic Programming
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1628-count-submatrices-with-all-ones) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1917-maximum-average-pass-ratio) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0037-sudoku-solver) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
