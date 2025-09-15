@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2481-strictly-palindromic-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2481-strictly-palindromic-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3462-vowels-game-in-a-string) |
 ## Queue
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Two Pointers
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
