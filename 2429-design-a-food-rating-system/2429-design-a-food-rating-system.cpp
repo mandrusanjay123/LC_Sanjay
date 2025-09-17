@@ -1,53 +1,45 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class FoodRatings {
+    struct Item {
+        string name;
+        int rating;
+        // order: higher rating first; on tie, lexicographically smaller name first
+        bool operator<(Item const& other) const {
+            if (rating != other.rating) return rating > other.rating; // desc
+            return name < other.name;                                 // asc
+        }
+    };
+
+    // food -> (cuisine, rating)
+    unordered_map<string, pair<string,int>> f2cr;
+    // cuisine -> ordered foods by (rating desc, name asc)
+    unordered_map<string, set<Item>> c2set;
+
 public:
-/*
-need to have a data structure for mapping food items to a respective cusine
-need a ds to store the highest food rated maintined like a priority queue this is for like every cusine type
-
-*/  struct comp{
-    bool operator()(pair<int,string>&a,pair<int,string>&b)const{
-    if(a.first==b.first){
-        return a.second>b.second;
-    }
-    return a.first<b.first;
-}
-};
-    unordered_map<string,priority_queue<pair<int,string>,vector<pair<int,string>>,comp>>cusinemap;
-    unordered_map<string,string>foodtocusine;
-    unordered_map<string,int>currentrating;
-
     FoodRatings(vector<string>& foods, vector<string>& cuisines, vector<int>& ratings) {
-        int n=cuisines.size();
-        for(int i=0;i<n;i++){
-            cusinemap[cuisines[i]].push({ratings[i],foods[i]});
-            foodtocusine[foods[i]]=cuisines[i];
-            currentrating[foods[i]]=ratings[i];
+        int n = (int)foods.size();
+        f2cr.reserve(n * 2);
+        c2set.reserve(n * 2);
+        for (int i = 0; i < n; ++i) {
+            f2cr[foods[i]] = {cuisines[i], ratings[i]};
+            c2set[cuisines[i]].insert({foods[i], ratings[i]});
         }
     }
     
     void changeRating(string food, int newRating) {
-         auto & pq=cusinemap[foodtocusine[food]];
-         pq.push({newRating,food});
-         currentrating[food]=newRating;
-         
+        auto& [cuisine, oldRating] = f2cr[food];
+        auto& s = c2set[cuisine];
+        // erase old (name, oldRating)
+        s.erase(Item{food, oldRating});
+        // insert new (name, newRating)
+        s.insert(Item{food, newRating});
+        oldRating = newRating;
     }
     
     string highestRated(string cuisine) {
-        auto &pq=cusinemap[cuisine];
-        while(!pq.empty()){
-            auto& top=pq.top();
-            if(currentrating.count(top.second)&&top.first==currentrating[top.second]){
-                return top.second;
-            }
-            pq.pop();
-        }
-        return "";    
-        }
+        auto& s = c2set[cuisine];
+        return s.begin()->name; // set never empty per problem guarantees
+    }
 };
-
-/**
- * Your FoodRatings object will be instantiated and called as such:
- * FoodRatings* obj = new FoodRatings(foods, cuisines, ratings);
- * obj->changeRating(food,newRating);
- * string param_2 = obj->highestRated(cuisine);
- */
