@@ -11,7 +11,7 @@ public:
             if(itr->second>max_freq){
                 max_freq=itr->second;
                 count=1;
-                continue;
+                // continue;
             }
             else if(itr->second==max_freq){
                 count++;
