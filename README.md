@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0120-triangle) |
 | [0867-new-21-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0867-new-21-game) |
 | [1236-n-th-tribonacci-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0037-sudoku-solver) |
+| [0120-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
 | [1006-vowel-spellchecker](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1006-vowel-spellchecker) |
