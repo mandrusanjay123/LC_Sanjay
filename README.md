@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1917-maximum-average-pass-ratio) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0037-sudoku-solver) |
 | [0120-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
 | [1006-vowel-spellchecker](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
 | [2481-strictly-palindromic-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2481-strictly-palindromic-number) |
 ## Number Theory
 |  |
@@ -228,5 +232,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
 | [3827-implement-router](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
