@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0120-triangle) |
+| [0747-min-cost-climbing-stairs](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0867-new-21-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1236-n-th-tribonacci-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1236-n-th-tribonacci-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
+| [0747-min-cost-climbing-stairs](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0747-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1018-largest-perimeter-triangle) |
