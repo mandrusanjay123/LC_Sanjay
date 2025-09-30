@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0867-new-21-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0037-sudoku-solver) |
 | [0120-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0198-house-robber) |
 | [0498-diagonal-traverse](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
