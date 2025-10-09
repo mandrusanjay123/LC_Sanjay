@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3748-sort-matrix-by-diagonals) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3827-implement-router) |
 ## Backtracking
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Memoization
 |  |
 | ------- |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0794-swim-in-rising-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
