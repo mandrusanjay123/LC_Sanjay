@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2887-sort-vowels-in-a-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3462-vowels-game-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0342-power-of-four) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -331,5 +334,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
