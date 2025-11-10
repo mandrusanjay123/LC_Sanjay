@@ -1,19 +1,24 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
-        vector<int> stack;
-        int res = 0;
+        int ans = 0;
+        stack<int> st;
+        st.push(0);                 // sentinel 0
+
         for (int num : nums) {
-            while (!stack.empty() && stack.back() > num)
-                stack.pop_back();
-            
-            if (num == 0)
-                continue;
-            if (stack.empty() || stack.back() < num) {
-                res++;
-                stack.push_back(num);
+            // Pop all layers that are higher than current num
+            while (!st.empty() && st.top() > num) {
+                st.pop();
             }
+
+            // If num starts a new positive layer
+            if ((st.empty() || st.top() < num) && num > 0) {
+                ++ans;
+                st.push(num);
+            }
+            // if st.top() == num or num == 0 with top==0, do nothing
         }
-        return res;
+
+        return ans;
     }
 };
