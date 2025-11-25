@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0867-new-21-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1236-n-th-tribonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1612-avoid-flood-in-the-city) |
