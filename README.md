@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0830-largest-triangle-area) |
+| [0875-koko-eating-bananas](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0875-koko-eating-bananas) |
 | [1006-vowel-spellchecker](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0875-koko-eating-bananas) |
 | [1612-avoid-flood-in-the-city](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2618-maximize-the-minimum-powered-city) |
