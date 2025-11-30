@@ -3,7 +3,15 @@ public:
     long long hoursNeeded(const vector<int>& piles, long long k) {
         long long h = 0;
         for (long long num : piles) {
-            h += (num + k - 1) / k;   // ceil(num/k)
+          if(num<=k){
+            h+=1;
+          }
+          else if(num>k&&num%k==0){
+            h+=num/k;
+          }
+          else{
+            h+=num/k+1;
+          }
         }
         return h;
     }
