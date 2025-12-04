@@ -3,7 +3,6 @@ public:
     int countCollisions(string directions) {
         int block=0;
         int right=0;
-        int left=0;
         int collisions=0;
         for(int i=0;i<directions.size();i++){
             if(directions[i]=='R'){
