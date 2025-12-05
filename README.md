@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3623-count-number-of-trapezoids-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
