@@ -1,28 +1,29 @@
 class Solution {
 public:
     int specialTriplets(vector<int>& nums) {
-        const int MOD = 1'000'000'007;
+        const long MOD = 1e9 + 7;
         int n = nums.size();
+        
+        // max value ≤ 100000, so max target = 200000
+        vector<long> left(200001, 0), right(200001, 0);
 
-        unordered_map<int,int> leftCount, rightCount;
+        for (int x : nums) right[x]++;
 
-        for (int x : nums)
-            rightCount[x]++;
-
-        long long ans = 0;
+        long ans = 0;
 
         for (int j = 0; j < n; j++) {
-            int x = nums[j];
-            rightCount[x]--;  // remove j from right side
+            int mid = nums[j];
 
-            int need = x * 2;
+            // remove j from right side
+            right[mid]--;
 
-            long long left = leftCount[need];
-            long long right = rightCount[need];
+            long target = (long)mid * 2;
+            if (target <= 200000) {
+                ans = (ans + left[target] * right[target]) % MOD;
+            }
 
-            ans = (ans + left * right) % MOD;
-
-            leftCount[x]++;   // add j to left side
+            // add j to left
+            left[mid]++;
         }
 
         return ans;
