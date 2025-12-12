@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0474-ones-and-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0867-new-21-game) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0229-majority-element-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0498-diagonal-traverse) |
