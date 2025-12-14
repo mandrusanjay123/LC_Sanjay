@@ -1,24 +1,12 @@
 class Solution {
 public:
-    const int mod = 1e9 + 7;
     int numberOfWays(string corridor) {
-        vector<int> pos;
-        for (int i = 0; i < corridor.size(); i++) {
-            if (corridor[i] == 'S') {
-                pos.push_back(i);
-            }
+        const int mod = 1e9 + 7;
+        long s0 = 0, s1 = 0, s2 = 1;  // 0, 1 or 2 seats in current segment
+        for (char c : corridor) {
+            if (c == 'S') s0 = s1, swap(s1, s2);
+            else s2 = (s2 + s0) % mod;
         }
-        
-        if (pos.size() % 2 or pos.size() == 0) {
-            return 0;
-        }
-        
-        long res = 1;
-        for (int i = 2; i < pos.size(); i += 2) {
-            int len_of_gap = pos[i] - pos[i - 1];
-            res = (res * len_of_gap) % mod;
-        }
-
-        return res;
+        return s0;
     }
 };
