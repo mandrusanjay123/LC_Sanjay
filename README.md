@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2092-find-all-people-with-secret) |
@@ -589,10 +590,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0543-diameter-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
