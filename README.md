@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0166-fraction-to-recurring-decimal) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0020-valid-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2211-count-collisions-on-a-road) |
