@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0830-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0229-majority-element-ii) |
 | [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0759-set-intersection-size-at-least-two) |
+| [0905-sort-array-by-parity](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0905-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0408-valid-word-abbreviation](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0408-valid-word-abbreviation) |
 | [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0680-valid-palindrome-ii) |
+| [0905-sort-array-by-parity](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0905-sort-array-by-parity) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2481-strictly-palindromic-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3437-maximum-total-damage-with-spell-casting) |
