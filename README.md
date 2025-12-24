@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0219-contains-duplicate-ii) |
 | [0867-new-21-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0229-majority-element-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0416-partition-equal-subset-sum) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0166-fraction-to-recurring-decimal) |
+| [0219-contains-duplicate-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0525-contiguous-array) |
 | [1006-vowel-spellchecker](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1006-vowel-spellchecker) |
