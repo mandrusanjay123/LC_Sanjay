@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0037-sudoku-solver) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0794-swim-in-rising-water) |
