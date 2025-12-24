@@ -1,9 +1,7 @@
 class Solution {
 public:
     int minimumBoxes(vector<int>& apple, vector<int>& capacity) {
-        sort(capacity.begin(),capacity.end(),[](const int & a, const int & b){
-            return a>b;
-        });
+        sort(capacity.begin(),capacity.end(),greater<int>());
         int sum=0;
         for(int i=0;i<apple.size();i++){
             sum+=apple[i];
