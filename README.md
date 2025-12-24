@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0794-swim-in-rising-water) |
+| [0938-range-sum-of-bst](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0938-range-sum-of-bst) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0938-range-sum-of-bst) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Monotonic Queue
@@ -646,4 +648,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
