@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0417-pacific-atlantic-water-flow) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0283-move-zeroes) |
 | [0408-valid-word-abbreviation](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0408-valid-word-abbreviation) |
 | [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0680-valid-palindrome-ii) |
