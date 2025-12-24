@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0219-contains-duplicate-ii) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0229-majority-element-ii) |
 | [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0525-contiguous-array) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0229-majority-element-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
