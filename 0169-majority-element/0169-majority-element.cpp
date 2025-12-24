@@ -20,7 +20,7 @@ public:
                 election =false;
             }
         }
-        cout<<vote;
+        // cout<<vote;
         return element;
     }
 };
