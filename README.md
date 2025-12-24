@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0021-merge-two-sorted-lists) |
 | [0342-power-of-four](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0021-merge-two-sorted-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
