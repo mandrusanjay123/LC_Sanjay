@@ -7,11 +7,9 @@ public:
         int i=0;
         int n=happiness.size();
         while(k--&&i<n){
-            // while(){
                 total+=(happiness[i]-decrement)>=0?(happiness[i]-decrement):0;
                 decrement++;
                 i++;
-            // }
         }
         return total;
     }
