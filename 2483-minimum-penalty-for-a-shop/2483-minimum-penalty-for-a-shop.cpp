@@ -2,12 +2,11 @@ class Solution {
 public:
     int bestClosingTime(string customers) {
         int n=customers.size();
-        int activeCustomers=0;
+        int currPenality=0;
         for(int c:customers){
-            if(c=='Y')activeCustomers++;
+            if(c=='Y')currPenality++;
         }
         int minPenality=n;
-        int currPenality=activeCustomers;
         int minId=INT_MAX;
         int id;
         for(id=0;id<n;id++){
