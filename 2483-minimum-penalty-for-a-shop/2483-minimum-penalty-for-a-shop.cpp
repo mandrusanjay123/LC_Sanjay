@@ -6,11 +6,9 @@ public:
         for(int c:customers){
             if(c=='Y')activeCustomers++;
         }
-        // if(activeCustomers==0)return 0;
         int minPenality=n;
         int currPenality=activeCustomers;
         int minId=INT_MAX;
-        cout<<minPenality<<endl;
         int id;
         for(id=0;id<n;id++){
               if(currPenality<minPenality){
