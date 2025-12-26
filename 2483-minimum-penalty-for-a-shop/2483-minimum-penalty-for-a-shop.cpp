@@ -7,7 +7,7 @@ public:
             if(c=='Y')currPenality++;
         }
         int minPenality=n;
-        int minId=INT_MAX;
+        int minId;
         int id;
         for(id=0;id<n;id++){
             if(currPenality<minPenality){
