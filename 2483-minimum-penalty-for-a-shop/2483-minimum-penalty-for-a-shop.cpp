@@ -7,13 +7,13 @@ public:
             if(c=='Y')activeCustomers++;
         }
         //YNNNNNN
-        if(activeCustomers==n)return n;
+        // if(activeCustomers==n)return n;
         if(activeCustomers==0)return 0;
         int minPenality=n;
         int currPenality=activeCustomers;
         int minId=INT_MAX;
         cout<<minPenality<<endl;
-        cout<<0<<","<<currPenality<<endl;
+        // cout<<0<<","<<currPenality<<endl;
         int id;
         for(id=0;id<n;id++){
               if(currPenality<minPenality){
@@ -27,7 +27,7 @@ public:
                 currPenality++;
             }
           
-            cout<<id+1<<","<<currPenality<<endl;
+            // cout<<id+1<<","<<currPenality<<endl;
         }
         if(currPenality<minPenality)minId=id;
         return minId;
