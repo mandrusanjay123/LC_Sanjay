@@ -11,7 +11,7 @@ public:
         int minId=INT_MAX;
         int id;
         for(id=0;id<n;id++){
-              if(currPenality<minPenality){
+            if(currPenality<minPenality){
                 minId=id;
                 minPenality=currPenality;
             }
