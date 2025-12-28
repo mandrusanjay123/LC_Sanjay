@@ -12,7 +12,7 @@ public:
             }
         }
         // cout<<n-left<<endl;
-        return (n-left)+1;
+        return (n-right);
 
     }
     int countNegatives(vector<vector<int>>& grid) {
