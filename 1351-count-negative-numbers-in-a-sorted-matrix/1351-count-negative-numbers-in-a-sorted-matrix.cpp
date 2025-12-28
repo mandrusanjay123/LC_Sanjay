@@ -11,7 +11,7 @@ public:
                 left=mid+1;
             }
         }
-        cout<<n-left<<endl;
+        // cout<<n-left<<endl;
         return (n-left)+1;
 
     }
