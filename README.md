@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0408-valid-word-abbreviation](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0408-valid-word-abbreviation) |
 | [0474-ones-and-zeroes](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0680-valid-palindrome-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0525-contiguous-array) |
+| [0756-pyramid-transition-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0756-pyramid-transition-matrix) |
 | [1006-vowel-spellchecker](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1264-maximum-number-of-words-you-can-type) |
