@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0867-new-21-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1018-largest-perimeter-triangle) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0766-toeplitz-matrix) |
 | [0794-swim-in-rising-water](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0840-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0944-delete-columns-to-make-sorted) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0766-toeplitz-matrix) |
 | [0794-swim-in-rising-water](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1628-count-submatrices-with-all-ones) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0525-contiguous-array) |
 | [0756-pyramid-transition-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0840-magic-squares-in-grid) |
 | [1006-vowel-spellchecker](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1264-maximum-number-of-words-you-can-type) |
