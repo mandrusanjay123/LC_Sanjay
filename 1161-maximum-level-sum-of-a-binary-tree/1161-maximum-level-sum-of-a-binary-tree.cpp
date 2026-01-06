@@ -26,13 +26,7 @@ public:
         if(node==NULL)return;
         recursion(l+1,node->left);
         recursion(l+1,node->right);
-        // int sum=left_val+right_val;
-        // if(levels.count(l)!=levels.end()){
-            levels[l]+=node->val;   
-        // }
-        // else{
-        //     levels[l]=node->val;
-        // }
+        levels[l]+=node->val;   
  
     }
     int maxLevelSum(TreeNode* root) {
@@ -44,7 +38,6 @@ public:
                 max_level_sum=itr->second;
                 max_level=itr->first;
             }
-            // max_level_sum=max(max_level_sum,(itr->second));
         }
         return max_level;
     }
