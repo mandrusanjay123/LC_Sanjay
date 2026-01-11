@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0152-maximum-product-subarray) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0498-diagonal-traverse) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0085-maximal-rectangle) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
