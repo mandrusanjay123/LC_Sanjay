@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0085-maximal-rectangle) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0046-permutations) |
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2174-next-greater-numerically-balanced-number) |
