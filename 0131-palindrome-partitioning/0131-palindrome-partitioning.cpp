@@ -1,13 +1,12 @@
 class Solution {
 public:
-bool ispalindrome(string s,int l,int r){
-    // int l=0;
-    // int r=s.length()-1;
-    while(l<r){
-        if(s[l++]!=s[r--])return false;
+    vector<vector<string>> partition(string s) {
+        vector<vector<string>>ans;
+        vector<string>temp;
+        recursion(0,s.length(),temp,ans,s);
+        return ans;
     }
-    return true;
-}
+
 void recursion(int id,int n,vector<string>&temp, vector<vector<string>>&ans,string s){
     if(id==n){
         ans.push_back(temp);
@@ -25,10 +24,13 @@ void recursion(int id,int n,vector<string>&temp, vector<vector<string>>&ans,stri
     }
     return;
 }
-    vector<vector<string>> partition(string s) {
-        vector<vector<string>>ans;
-        vector<string>temp;
-        recursion(0,s.length(),temp,ans,s);
-        return ans;
+
+    bool ispalindrome(string s,int l,int r){
+    // int l=0;
+    // int r=s.length()-1;
+    while(l<r){
+        if(s[l++]!=s[r--])return false;
     }
+    return true;
+}
 };
