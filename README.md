@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0166-fraction-to-recurring-decimal) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0345-reverse-vowels-of-a-string) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0416-partition-equal-subset-sum) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0131-palindrome-partitioning) |
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2174-next-greater-numerically-balanced-number) |
