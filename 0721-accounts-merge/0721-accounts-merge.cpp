@@ -5,8 +5,9 @@ public:
         if(parent.find(root)==parent.end()){
             parent[root]=root;
         }
-        if(parent[root] == root)  
+        if(parent[root] == root) { 
         return root;
+        }
         return parent[root]=find(parent[root]);
     }
     void unite(string a ,string b){
