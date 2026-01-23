@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0721-accounts-merge](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0721-accounts-merge](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0721-accounts-merge) |
 | [0747-min-cost-climbing-stairs](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0759-set-intersection-size-at-least-two) |
 | [0766-toeplitz-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0766-toeplitz-matrix) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0229-majority-element-ii) |
 | [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0759-set-intersection-size-at-least-two) |
 | [0905-sort-array-by-parity](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0905-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1018-largest-perimeter-triangle) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0525-contiguous-array) |
+| [0721-accounts-merge](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -665,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0417-pacific-atlantic-water-flow) |
+| [0721-accounts-merge](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -678,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0543-diameter-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0938-range-sum-of-bst) |
@@ -781,4 +787,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Union-Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
