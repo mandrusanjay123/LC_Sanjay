@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3433-count-mentions-per-user](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3583-count-special-triplets) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3678-design-task-manager) |
@@ -629,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3863-power-grid-maintenance) |
@@ -742,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0021-merge-two-sorted-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Graph
 |  |
 | ------- |
@@ -787,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Union-Find
 |  |
 | ------- |
