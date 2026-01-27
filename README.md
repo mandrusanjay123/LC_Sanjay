@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1917-maximum-average-pass-ratio) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -807,4 +809,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0721-accounts-merge) |
+## Graph Theory
+|  |
+| ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 <!---LeetCode Topics End-->
