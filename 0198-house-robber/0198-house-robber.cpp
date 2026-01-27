@@ -1,20 +1,15 @@
 class Solution {
 public:
+    int recursion(int i,vector<int>& nums,vector<int>& memo){
+        if(i==0)return nums[0];
+        if(i<0)return 0;
+        if(memo[i]!=-1)return memo[i];
+        int rob= recursion(i-2,nums,memo)+nums[i];
+        int not_rob= recursion(i-1,nums,memo);
+        return memo[i]= max(rob,not_rob);
+    }
     int rob(vector<int>& nums) {
-        // vector<int>dp(nums.size(),0);
-        int prev1=nums[0];
-        int prev2=nums[0];
-        int ans;
-        for(int i=1;i<nums.size();i++){
-            if(i>1){
-                ans=max(nums[i]+prev1,prev2);
-            }
-            else{
-                ans=max(nums[i],prev2);
-            }
-            prev1=prev2;
-            prev2=ans;
-        }
-        return prev2;
+        vector<int> memo(nums.size(),-1);
+        return recursion(nums.size()-1,nums,memo);
     }
 };
