@@ -18,7 +18,7 @@ public:
             int node=f.second;
             int dist=f.first;
             // visited[node]=true;
-            if(dist>dst[node])continue;
+            // if(dist>dst[node])continue;
             if(node==n-1){
                 return dst[node];
             }
