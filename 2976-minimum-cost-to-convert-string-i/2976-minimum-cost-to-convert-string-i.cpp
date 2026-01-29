@@ -1,54 +1,49 @@
+#include <vector>
+#include <string>
+#include <algorithm>
+using namespace std;
+
 class Solution {
 public:
-    void dijkstra(int src, vector<pair<int,int>> adj[], vector<int>& dist) {
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
-        dist[src] = 0;
-        pq.push({0, src});
+    long long minimumCost(string source, string target,
+ vector<char>& original, vector<char>& changed, vector<int>& cost) {
+        long long dist[26][26];
+        const long long INF = 1e14;
 
-        while (!pq.empty()) {
-            auto [d, u] = pq.top();
-            pq.pop();
+        for (int i = 0; i < 26; ++i) {
+            for (int j = 0; j < 26; ++j) {
+                dist[i][j] = (i == j) ? 0 : INF;
+            }
+        }
 
-            if (d > dist[u]) continue;
+        for (size_t i = 0; i < original.size(); ++i) {
+            int u = original[i] - 'a';
+            int v = changed[i] - 'a';
+            dist[u][v] = min(dist[u][v], (long long)cost[i]);
+        }
 
-            for (auto [v, w] : adj[u]) {
-                if (dist[v] > d + w) {
-                    dist[v] = d + w;
-                    pq.push({dist[v], v});
+        for (int k = 0; k < 26; ++k) {
+            for (int i = 0; i < 26; ++i) {
+                if (dist[i][k] == INF) continue;
+                for (int j = 0; j < 26; ++j) {
+                    if (dist[k][j] != INF) {
+                        dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j]);
+                    }
                 }
             }
         }
-    }
 
-    long long minimumCost(
-        string source,
-        string target,
-        vector<char>& original,
-        vector<char>& changes,
-        vector<int>& cost
-    ) {
-        if (source.size() != target.size()) return -1;
+        long long totalCost = 0;
+        int n = source.length();
 
-        vector<pair<int,int>> adj[26];
-        for (int i = 0; i < original.size(); i++) {
-            adj[original[i] - 'a'].push_back({changes[i] - 'a', cost[i]});
-        }
-
-        vector<vector<int>> dist(26, vector<int>(26, INT_MAX));
-
-        for (int i = 0; i < 26; i++) {
-            dijkstra(i, adj, dist[i]);
-        }
-
-        long long ans = 0;
-        for (int i = 0; i < source.size(); i++) {
+        for (int i = 0; i < n; ++i) {
             int u = source[i] - 'a';
             int v = target[i] - 'a';
             if (u == v) continue;
-            if (dist[u][v] == INT_MAX) return -1;
-            ans += dist[u][v];
+            if (dist[u][v] == INF) return -1;
+            totalCost += dist[u][v];
         }
 
-        return ans;
+        return totalCost;
     }
 };
