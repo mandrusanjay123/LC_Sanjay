@@ -6,7 +6,7 @@ public:
             while(i<letters.size()&&letters[i]==target){
                 i++;
             }
-            if(i<letters.size()&&letters[i]==target&&i+1<letters.size())return letters[i+1];
+            if(i+1<letters.size()&&letters[i]==target)return letters[i+1];
             if(i<letters.size()&&letters[i]>target){
                 return letters[i];
             }
