@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0721-accounts-merge) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0759-set-intersection-size-at-least-two) |
 | [0766-toeplitz-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0766-toeplitz-matrix) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0611-valid-triangle-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0658-find-k-closest-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0981-time-based-key-value-store) |
