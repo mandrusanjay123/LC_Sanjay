@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1382-balance-a-binary-search-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2092-find-all-people-with-secret) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0215-kth-largest-element-in-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1382-balance-a-binary-search-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Monotonic Queue
@@ -820,10 +824,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
 | ------- |
