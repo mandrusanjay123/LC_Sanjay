@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0747-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0799-champagne-tower) |
 | [0867-new-21-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0867-new-21-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1111-minimum-score-triangulation-of-polygon) |
