@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0131-palindrome-partitioning) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2137-final-value-of-variable-after-performing-operations) |
