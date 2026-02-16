@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/3719-longest-balanced-subarray-i) |
