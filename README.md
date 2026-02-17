@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2174-next-greater-numerically-balanced-number) |
