@@ -7,7 +7,7 @@ public:
             int num=arr[i];
             int num_bits=0;
             while(num>0){
-                num_bits+=(num&1)?1:0;
+                num_bits+=(num&1);
                 num>>=1;
             }
             store.push_back({num_bits,arr[i]});
