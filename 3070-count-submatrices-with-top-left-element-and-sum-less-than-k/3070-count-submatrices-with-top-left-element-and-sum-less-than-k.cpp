@@ -1,40 +1,36 @@
 class Solution {
 public:
     int countSubmatrices(vector<vector<int>>& grid, int k) {
-        vector<vector<int>>dp(grid.size(),vector<int>(grid[0].size(),0));
-        int count=0;
-        for(int i = 0;i < grid.size(); i++){
-
-            for(int j = 0; j<grid[i].size(); j++){
-                int previ = i-1;
-                int prevj = j-1;
-                dp[i][j]+=grid[i][j];
+        
+        int m = grid.size();
+        int n = grid[0].size();
+        
+        // This array stores prefix sum values of the previous row
+        vector<int> colPrefix(n, 0);
+        
+        int count = 0;
+        
+        for (int i = 0; i < m; i++) {
+            
+            int left = 0;        // dp[i][j-1]
+            int topLeft = 0;     // dp[i-1][j-1]
+            
+            for (int j = 0; j < n; j++) {
                 
-                if(previ>=0){
-                    dp[i][j]+=dp[previ][j];
-                }
-                if(prevj>=0){
-                    dp[i][j]+=dp[i][prevj];
-                }
-                if(previ >= 0 && prevj >= 0){
-                    dp[i][j] -= dp[previ][prevj];
-                }
-                 if(dp[i][j]<=k) count++;
-                // cout<<dp[i][j]<<","; 
+                int top = colPrefix[j];   // dp[i-1][j]
+                
+                // current 2D prefix sum
+                int curr = grid[i][j] + top + left - topLeft;
+                
+                if (curr <= k) count++;
+                
+                // update variables for next iteration
+                topLeft = top;
+                colPrefix[j] = curr;
+                left = curr;
             }
-            // cout<<endl;
-
         }
-
-        // int count=0;
-        //     for(int i = 0; i<grid.size(); i++){
-        //         for(int j=0 ;j<grid[i].size(); j++){
-                    
-        //             if(dp[i][j]<=k) count++;
-        //         }
-                
-        //     }
-
+        
         return count;
     }
 };
