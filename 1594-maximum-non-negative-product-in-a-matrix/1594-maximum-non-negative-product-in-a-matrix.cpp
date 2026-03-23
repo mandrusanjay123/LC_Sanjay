@@ -1,58 +1,48 @@
 class Solution {
 public:
-    
-    int m, n;
-    long long MOD = 1e9 + 7;
-    
-    // memo stores {maxProduct, minProduct}
-    vector<vector<pair<long long,long long>>> memo;
-    vector<vector<int>> vis;
-    
-    pair<long long,long long> dfs(vector<vector<int>>& grid, int i, int j) {
-        
-        if(vis[i][j]) return memo[i][j];
-        
-        long long val = grid[i][j];
-        
-        // base
-        if(i == 0 && j == 0) {
-            return memo[i][j] = {val, val};
-        }
-        
-        long long mx = LLONG_MIN;
-        long long mn = LLONG_MAX;
-        
-        // from up
-        if(i > 0) {
-            auto p = dfs(grid, i-1, j);
-            
-            mx = max(mx, max(p.first * val, p.second * val));
-            mn = min(mn, min(p.first * val, p.second * val));
-        }
-        
-        // from left
-        if(j > 0) {
-            auto p = dfs(grid, i, j-1);
-            
-            mx = max(mx, max(p.first * val, p.second * val));
-            mn = min(mn, min(p.first * val, p.second * val));
-        }
-        
-        vis[i][j] = 1;
-        return memo[i][j] = {mx, mn};
-    }
-    
     int maxProductPath(vector<vector<int>>& grid) {
         
-        m = grid.size();
-        n = grid[0].size();
+        int m = grid.size();
+        int n = grid[0].size();
+        long long MOD = 1e9 + 7;
         
-        memo.assign(m, vector<pair<long long,long long>>(n));
-        vis.assign(m, vector<int>(n, 0));
+        vector<vector<long long>> maxDP(m, vector<long long>(n));
+        vector<vector<long long>> minDP(m, vector<long long>(n));
         
-        auto res = dfs(grid, m-1, n-1);
+        maxDP[0][0] = grid[0][0];
+        minDP[0][0] = grid[0][0];
         
-        long long ans = res.first;
+        // first row
+        for(int j = 1; j < n; j++) {
+            long long val = grid[0][j];
+            maxDP[0][j] = maxDP[0][j-1] * val;
+            minDP[0][j] = maxDP[0][j];
+        }
+        
+        // first column
+        for(int i = 1; i < m; i++) {
+            long long val = grid[i][0];
+            maxDP[i][0] = maxDP[i-1][0] * val;
+            minDP[i][0] = maxDP[i][0];
+        }
+        
+        // rest cells
+        for(int i = 1; i < m; i++) {
+            for(int j = 1; j < n; j++) {
+                
+                long long val = grid[i][j];
+                
+                long long a = maxDP[i-1][j] * val;
+                long long b = minDP[i-1][j] * val;
+                long long c = maxDP[i][j-1] * val;
+                long long d = minDP[i][j-1] * val;
+                
+                maxDP[i][j] = max({a, b, c, d});
+                minDP[i][j] = min({a, b, c, d});
+            }
+        }
+        
+        long long ans = maxDP[m-1][n-1];
         
         if(ans < 0) return -1;
         
