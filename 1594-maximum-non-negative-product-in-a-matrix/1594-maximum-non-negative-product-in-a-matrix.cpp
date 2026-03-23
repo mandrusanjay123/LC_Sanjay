@@ -13,39 +13,37 @@ public:
         minDP[0][0] = grid[0][0];
         
         // first row
-        for(int j = 1; j < n; j++) {
-            long long val = grid[0][j];
-            maxDP[0][j] = maxDP[0][j-1] * val;
+        for(int j = 1; j < n; j++){
+            long long x = grid[0][j];
+            maxDP[0][j] = maxDP[0][j-1] * x;
             minDP[0][j] = maxDP[0][j];
         }
         
         // first column
-        for(int i = 1; i < m; i++) {
-            long long val = grid[i][0];
-            maxDP[i][0] = maxDP[i-1][0] * val;
+        for(int i = 1; i < m; i++){
+            long long x = grid[i][0];
+            maxDP[i][0] = maxDP[i-1][0] * x;
             minDP[i][0] = maxDP[i][0];
         }
         
-        // rest cells
-        for(int i = 1; i < m; i++) {
-            for(int j = 1; j < n; j++) {
+        for(int i = 1; i < m; i++){
+            for(int j = 1; j < n; j++){
                 
-                long long val = grid[i][j];
+                long long x = grid[i][j];
                 
-                long long a = maxDP[i-1][j] * val;
-                long long b = minDP[i-1][j] * val;
-                long long c = maxDP[i][j-1] * val;
-                long long d = minDP[i][j-1] * val;
+                long long a = maxDP[i-1][j] * x;
+                long long b = minDP[i-1][j] * x;
+                long long c = maxDP[i][j-1] * x;
+                long long d = minDP[i][j-1] * x;
                 
-                maxDP[i][j] = max({a, b, c, d});
-                minDP[i][j] = min({a, b, c, d});
+                maxDP[i][j] = max({a,b,c,d});
+                minDP[i][j] = min({a,b,c,d});
             }
         }
         
         long long ans = maxDP[m-1][n-1];
         
         if(ans < 0) return -1;
-        
         return ans % MOD;
     }
 };
