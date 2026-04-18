@@ -4,11 +4,8 @@ public:
         int rnum=0;
         int temp=n;
 
-        int rem = 0;
-
         while(n>=1){
-            rem= n%10;
-            rnum= rnum*10 + rem;
+            rnum= rnum*10 + n%10;
             n/=10;
         }
 
