@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2573-find-the-string-with-lcp](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mandrusanjay123/LC_Sanjay/tree/master/2141-maximum-running-time-of-n-computers) |
